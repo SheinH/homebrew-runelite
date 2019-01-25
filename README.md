@@ -1,9 +1,9 @@
 ![](https://runelite.net/img/logo.png)
-# Unofficial Homebrew Tap for runelite launcher
+# Unofficial Homebrew Tap for RuneLite
 
 [Runelite](https://runelite.net/) is an open-source client for Old School Runescape.
 
-This tap was created for an easy installation of Runelite's mac launcher with Homebrew Cask
+This tap was created for an easy installation of Runelite's mac app with Homebrew Cask
 
 To install do:
 ```
